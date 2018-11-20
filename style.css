@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: silver;
+ 
+}
+.ji{
+	text-align: right;
+}
+header {
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+header h1 {
+	color: white;
+
+}
+header img{
+	position: absolute;
+	border-radius: 10px;
+	border: 2px solid black;
+}
+h2 {
+	margin-top: 400px;
+}
+	.img2{
+		margin-left: 35%;
+	}
+	
+	button a p{
+
+		color: red;
+		font-size: 20px;
+	}

@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+}
+.imag {
+	width: 100%;
+	position: fixed;
+
+}
+.aaa {
+	position: absolute;
+	margin:10px;
+
+}
+
+.hhh{
+	width: 30%;
+}
+
+body{
+	font-family: tahoma;
+}
+
+button a p{
+	color: red;
+	font-size: 20px;
+}
+
